@@ -1,0 +1,6 @@
+{
+  "name": "PhysioTracker",
+  "description": "Daily physiotherapy visit and staff attendance management with clinic tracking, admin controls, and Google Sheets integration.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
